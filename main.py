@@ -1,5 +1,4 @@
 import telebot
-from config import token
 from telebot import types
 
 from datetime import datetime
